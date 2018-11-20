@@ -8,7 +8,7 @@
 	<name>ssm Maven Webapp</name>
 	<url>http://github.com/liyifeng1994/ssm</url>
 	<dependencies>
-		<!-- 单元测试 。。。。-->
+		<!-- 单元测试 -->
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
